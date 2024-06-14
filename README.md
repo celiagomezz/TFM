@@ -8,4 +8,4 @@ Los resultados muestran la superioridad de modelos que logran capturar la relaci
 
 Se destaca la importancia de tener predicciones precisas para evitar desvíos en el mercado eléctrico con un análisis económico (en otro cuaderno .ipynb). Las conclusiones de este TFM resaltan la relevancia de estas técnicas de predicción no solo para mejorar la precisión de las predicciones, sino también para apoyar la transición hacia un sistema energético más limpio y eficiente.
 
-
+Si surge cualquier duda con respecto al código, puedes contactarme a: gomezlimia.celia@gmail.com
